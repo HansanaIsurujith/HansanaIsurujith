@@ -7,8 +7,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kinghansa&label=Profile%20views&color=0e75b6&style=flat" alt="kinghansa" /> </p>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<table align="center">
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+<table align="left">
 <tr border="none">
 <td width="100%" align="left">
 
